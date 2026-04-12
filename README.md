@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Srijith004/Srijith004/main/banner.gif" width="100%"/>
@@ -83,7 +85,7 @@ I care about building systems that are useful, not just impressive — from an A
 | 📰 **[SmartNews AI](https://github.com/Srijith004/SmartNews-AI)** | Intelligent news platform with 3-level AI summaries, sentiment analysis, fact-check indicators & keyword extraction powered by Gemini 1.5 Flash | React, Node.js, MongoDB, Gemini AI, NewsAPI |
 | ⚡ **AI Load Forecasting System** | Hybrid hardware-AI system for intelligent power distribution and auto load balancing | Python, Arduino, IoT Sensors |
 | 🚦 **Smart Traffic Control + Spike System** | Automated traffic + embedded spike deployment with AI | Arduino, Computer Vision |
-| 🌊 **Landslide Alert System** — Multi-sensor early warning system with GPS/GSM alerts | Arduino, GPS, GSM |
+| 🌊 **Landslide Alert System** | Multi-sensor early warning system with GPS/GSM alerts | Arduino, GPS, GSM |
 | 🧠 **Deepfake Detection Tool** | ML-based detection of AI-generated media with user feedback loop | Python, ML |
 
 ---
@@ -104,9 +106,9 @@ I care about building systems that are useful, not just impressive — from an A
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Srijith004&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Srijith004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijith004&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Srijith004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijith004&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijith004&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijith004&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -116,6 +118,6 @@ I care about building systems that are useful, not just impressive — from an A
 
 *"Build things that matter."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Srijith004&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=srijith004&style=flat-square&color=blue)
 
 </div>

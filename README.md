@@ -106,9 +106,9 @@ I care about building systems that are useful, not just impressive — from an A
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Srijith004&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Srijith004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijith004&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Srijith004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijith004&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijith004&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijith004&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -118,6 +118,6 @@ I care about building systems that are useful, not just impressive — from an A
 
 *"Build things that matter."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Srijith004&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=srijith004&style=flat-square&color=blue)
 
 </div>

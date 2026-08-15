@@ -31,11 +31,10 @@
 ### 👨‍💻 About Me
 
 EEE engineering student from Coimbatore building things at the crossroads of **AI**, **full-stack web**, and **embedded hardware**.
-I care about building systems that are useful, not just impressive — from an AI fitness planner to an intelligent news platform to enterprise billing software.
+I care about building systems that are useful, not just impressive — from an AI fitness planner to an intelligent news platform.
 
 - 🔭 Currently building **FitAI** — AI-powered fitness PWA (React + Gemini API)
 - 📰 Built **SmartNews AI** — AI news summarization & sentiment analysis platform
-- 💳 Built **Modern Cable** — enterprise-grade Cable TV (PCO) billing & management platform
 - ⚡ Working on **AI Load Forecasting & Auto Load Sharing System** (hardware + ML hybrid)
 - 🎯 Aspiring to work in the **semiconductor industry** — NVIDIA or TCS
 
@@ -47,18 +46,15 @@ I care about building systems that are useful, not just impressive — from an A
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 **Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **AI & Data**
 
@@ -85,7 +81,6 @@ I care about building systems that are useful, not just impressive — from an A
 
 | Project | Description | Stack |
 |---|---|---|
-| 💳 **[Modern Cable — PCO Billing Platform](https://github.com/Srijith004/Modern-cable)** | Enterprise-grade Private Cable Operator (PCO) management app for customer billing, connection lifecycle, area-wise distribution, collection tracking, financial analytics & automated PDF receipt generation | React 19, TypeScript, Vite, TailwindCSS, Express, Supabase |
 | 🏋️ **[FitAI — AI Fitness Planner](https://github.com/Srijith004/Fit-AI)** | Full-stack PWA with AI food scanning via Gemini Vision, workout generation, calorie tracking, streak gamification & social leaderboard | React, Vite, Node.js, Express, Gemini API, JWT |
 | 📰 **[SmartNews AI](https://github.com/Srijith004/SmartNews-AI)** | Intelligent news platform with 3-level AI summaries, sentiment analysis, fact-check indicators & keyword extraction powered by Gemini 1.5 Flash | React, Node.js, MongoDB, Gemini AI, NewsAPI |
 | ⚡ **AI Load Forecasting System** | Hybrid hardware-AI system for intelligent power distribution and auto load balancing | Python, Arduino, IoT Sensors |

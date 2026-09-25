@@ -16,6 +16,11 @@
 [![Email](https://img.shields.io/badge/📧_srijithswaminathan22@gmail.com-1e1e2e?style=for-the-badge)](mailto:srijithswaminathan22@gmail.com)
 [![Open to Work](https://img.shields.io/badge/🚀_Open_to_Embedded_%26_Hardware_Internships-1e1e2e?style=for-the-badge)](https://github.com/Srijith004)
 
+<br/>
+
+<!-- Quick intro loop — swap the src once intro.gif is committed to this repo -->
+<img src="https://raw.githubusercontent.com/Srijith004/Srijith004/main/intro.gif" width="480"/>
+
 </div>
 
 ---
@@ -28,15 +33,32 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 Know About Me
 
-Final-year EEE (Electrical and Electronics Engineering) student at SNS College of Engineering, Coimbatore, building at the crossroads of **embedded systems**, **AI**, and **full-stack web**.
-My career path runs **embedded systems → FPGA/RTL → VLSI/semiconductors**, and I'm aiming for roles at companies like **NVIDIA** and **TCS**.
+<table>
+<tr>
+<td width="240" valign="top">
+<img src="https://raw.githubusercontent.com/Srijith004/Srijith004/main/profile-photo.png" width="220"/>
+</td>
+<td valign="top">
+
+Hey, I'm **Sri** — final-year EEE student at SNS College of Engineering, Coimbatore, currently in **watch → learn → build → impact** mode.
+
+By day, I'm deep in **C/C++, embedded firmware, and IoT (ESP32)**, and slowly leveling up toward **FPGA/RTL and VLSI**. By night, I'm usually shipping a side project — right now that's **Modern Cable**, a full billing platform for cable operators, alongside an **autonomous agri-robot** for weed detection and biochar prep on my final-year project.
+
+When I'm not writing code or wiring a board, you'll find me at the gym, sketching, modeling something in **Blender**, or reading up on the semiconductor industry — **NVIDIA** is the dream.
+
+**🧠 Core Stack:** Embedded Systems · Power Electronics · AI/ML · Full-Stack Web
+**📍 Mission:** Better engineer, fitter mind, brighter future.
+
+</td>
+</tr>
+</table>
 
 - 🔭 Currently building **Modern Cable** — an enterprise-grade Cable TV / PCO billing platform
-- 🏋️ Also built **FitAI** — an AI-powered fitness PWA (React + Gemini API)
+- 🌾 Also building an **autonomous sugarcane inter-row weeding & biochar robot** (final-year project)
+- 🏋️ Previously built **FitAI** — an AI-powered fitness PWA (React + Gemini API)
 - 📰 Built **SmartNews AI** — an AI news summarization & sentiment analysis platform
-- ⚡ Explored an **AI Load Forecasting & Auto Load Sharing System** (hardware + ML hybrid)
 - 🎯 Long-term goal: semiconductor industry — VLSI/RTL design
 
 ---
@@ -52,43 +74,45 @@ My career path runs **embedded systems → FPGA/RTL → VLSI/semiconductors**, a
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
-**Languages**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**💻 Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,java" />
 
-**Frontend & Backend**
+</td>
+<td valign="top" width="50%">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**🔩 Embedded & Hardware**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/Proteus-EE3124?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white"/>
 
-**AI & Data**
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**⚙️ Frameworks & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,mongodb" />
 
-**Embedded & Hardware**
+</td>
+<td valign="top" width="50%">
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-EE3124?style=flat-square&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logoColor=white)
+**🧰 Design & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,blender,git,github,vscode,docker" />
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,11 +151,10 @@ My career path runs **embedded systems → FPGA/RTL → VLSI/semiconductors**, a
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Srijith004&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijith004&layout=compact&theme=dark&hide_border=true" height="165"/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Srijith004&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Srijith004's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijith004&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijith004&theme=github_dark)
 
 </div>
 
